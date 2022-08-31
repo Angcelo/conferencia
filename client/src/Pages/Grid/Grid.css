@@ -1,0 +1,20 @@
+.contain{
+    margin-top: 8%;
+    min-height: 100vh;
+    float: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.btn-buscar{
+    margin-left: 1.1em;
+    /*
+    background: #e65c00;
+    background: linear-gradient(to right, #F9D423, #e65c00);
+    */
+}
+
+.imgGrid{
+    width: 1.5em;
+}
